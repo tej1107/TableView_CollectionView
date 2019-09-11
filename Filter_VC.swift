@@ -1,10 +1,3 @@
-//
-//  Filter_VC.swift
-//  Test
-//
-//  Created by esparkbiz on 9/4/19.
-//  Copyright © 2019 esparkbiz. All rights reserved.
-//
 
 import UIKit
 
